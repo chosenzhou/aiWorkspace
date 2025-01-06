@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "modes": [
     {
+      "id": "deepseek",
+      "parent": 0,
+      "text": "Deepseek",
+      "url": "https: //chat.deepseek.com/"
+    },
+    {
       "id": "cozeCN",
       "parent": 0,
       "text": "扣子",
