@@ -1,13 +1,7 @@
 {
-  "name": "AiWorkspace",
+  "name": "aiWorkspace",
   "version": "0.0.1",
   "modes": [
-    {
-      "id": "coze",
-      "parent": 0,
-      "text": "Coze",
-      "url": "https://www.coze.com/home"
-    },
     {
       "id": "cozeCN",
       "parent": 0,
@@ -45,12 +39,6 @@
       "url": "https://yiyan.baidu.com"
     },
     {
-      "id": "xinghuo",
-      "parent": 0,
-      "text": "讯飞星火",
-      "url": "https://xinghuo.xfyun.cn"
-    },
-    {
       "id": "kimi",
       "parent": 0,
       "text": "Kimi",
@@ -64,7 +52,7 @@
     },
     {
       "id": "noi:qqmail",
-      "parent": "noi@email",
+      "parent": 0,
       "text": "QQ 邮箱",
       "url": "https://mail.qq.com"
     }
